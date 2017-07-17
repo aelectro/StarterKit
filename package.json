@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript development environment (starter kit)",
   "scripts": {
+    "start": "node buildScripts/srcServer.js"
   },
   "author": "AK",
   "license": "MIT",
